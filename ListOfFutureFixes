@@ -1,0 +1,6 @@
+1) Add Makefiles
+2) Use a Matrix Object instead of MatrixData struct
+3) Optimize transpose for SquareMatrix
+4) Add +, -, * Matrix Operations to the matrix menu
+5) Add some unit tests
+6) For the operator= use move semantics instead of copying
